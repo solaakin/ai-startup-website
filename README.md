@@ -62,3 +62,9 @@ Jerry Updating Index.html File
 
 Jerry Add Contact Info To Index.html File
 ![JerryAddContactInfo](./img2/25.JerryAddContactInfoToIndexhtml.png)
+
+Jerry Staging Changes Made To Index.html
+![JerryStagingChangesToIndex.html](./img2/26.JerryStagingChangesMadeToIndexhtml.png)
+
+Jerry Commit & Uploads Branch To GitHub Repo For Review And Merging
+![JerryPushedBranch](./img2/27.JerryCommitAndUploadingBranchRemoteRepoforReview&MergingToMain.png)
